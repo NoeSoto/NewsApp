@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="m22">22dp</dimen>
+    <dimen name="m16">16dp</dimen>
+    <dimen name="m10">10dp</dimen>
+    <dimen name="m8">8dp</dimen>
+    <dimen name="m4">4dp</dimen>
+    <dimen name="m2">2dp</dimen>
+    <dimen name="m100">100dp</dimen>
+    <dimen name="m48">48dp</dimen>
+    <dimen name="m52">52dp</dimen>
+    <dimen name="t24">24sp</dimen>
+    <dimen name="t20">20sp</dimen>
+    <dimen name="t14">14sp</dimen>
+    <dimen name="t12">12sp</dimen>
+</resources>

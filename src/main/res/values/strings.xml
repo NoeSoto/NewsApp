@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="counter">3</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="first_Title">International News</string>
+    <string name="local_content">Local news</string>
+    <string name="internatio_content">International news</string>
+</resources>
